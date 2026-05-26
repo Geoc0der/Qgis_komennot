@@ -1,0 +1,8 @@
+--Kenttälaskimessa
+
+array_sum(
+    overlay_contains(
+        'pistetaso_nimi', 
+        "ASYHT"
+    )
+)
